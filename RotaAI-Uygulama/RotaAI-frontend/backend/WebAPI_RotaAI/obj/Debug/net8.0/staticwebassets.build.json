@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ez5j6nglH24damb4atcLejQsTvPriDQCQDOrY+YgbxM=",
+  "Source": "WebAPI_RotaAI",
+  "BasePath": "_content/WebAPI_RotaAI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

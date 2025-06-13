@@ -1,0 +1,6 @@
+@TeknofestBackendCsharp_HostAddress = http://localhost:5007
+
+GET {{TeknofestBackendCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

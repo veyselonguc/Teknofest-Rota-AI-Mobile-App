@@ -1,0 +1,40 @@
+{
+    "kullanici_id": "12345",
+    "gecmis_geziler": [
+        
+  {
+    "isim": "Kınalıada",
+    "begeni": 2
+  },
+  {
+    "isim": "Ayasofya",
+    "begeni": 5.0
+  },
+  {
+    "isim": "Topkapı Sarayı",
+    "begeni": 3.0
+  },
+  {
+    "isim": "Yavuz Sultan Selim Köprüsü",
+    "begeni": 2.0
+  },
+  {
+    "isim": "Fatih Sultan Mehmet Köprüsü",
+    "begeni": 0
+  },
+  {
+    "isim": "Ortaköy Meydanı",
+    "begeni": 1
+  },
+  {
+    "isim": "Galata Köprüsü",
+    "begeni": 4
+  },
+  {
+    "isim": "Polonezköy Tabiat Parkı",
+    "begeni": 3
+  }
+  
+    ]
+  }
+  

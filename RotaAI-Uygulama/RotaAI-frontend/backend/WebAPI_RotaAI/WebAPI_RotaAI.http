@@ -1,0 +1,6 @@
+@WebAPI_RotaAI_HostAddress = http://localhost:5216
+
+GET {{WebAPI_RotaAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
