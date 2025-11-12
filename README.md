@@ -1,6 +1,6 @@
-#📍 RotaAI Mobile App
+# 📍 RotaAI Mobile App
 
-###🌐 Overview (EN)
+### 🌐 Overview (EN)
 RotaAI is an AI-powered mobile application developed for the 2025 TEKNOFEST Technology Competition, where it became a semi-finalist in the Tourism category. The app suggests personalized historical travel routes based on the user's visit history and ratings.
 
 The AI recommendation system, developed in Python, analyzes a user's previous visits and suggests the top 5 most relevant new destinations. As part of the data, we used web scraping to collect real Google reviews of historical places.
@@ -11,7 +11,7 @@ The AI recommendation system, developed in Python, analyzes a user's previous vi
 🧠 A “Did You Know?” section on the homepage that presents surprising facts about historical sites
 The app is connected to a database and requires user login for personalized functionality.
 
-###🇹🇷 Proje Özeti (TR)
+### 🇹🇷 Proje Özeti (TR)
 📱 RotaAI, kullanıcıların geçmiş ziyaretlerini puanlamasıyla çalışan yapay zeka destekli bir rota öneri mobil uygulamasıdır.
 2025 TEKNOFEST yarışması TURİZM kategorisinde yarı finalist olduk. Sistem, Python tabanlı öneri motoruyla kullanıcının geçmiş gezilerine göre en uygun 5 yeni noktayı önerir.
 
@@ -23,7 +23,7 @@ Web scraping yöntemi ile Google yorumlarından veri toplayarak tarihi yerlerin 
 🧠 Ana sayfada “Bunları biliyor muydunuz?” alanı (ilginç bilgiler)
 Uygulama kullanıcı girişi ile çalışmakta ve veritabanına bağlıdır.
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 Flutter (Frontend – Mobile)
 ASP.NET Core (Backend & API)
 Python (AI-based recommendation system)
@@ -36,7 +36,7 @@ Takes user visit history and ratings (0–5) as input
 Suggests the top 5 most similar historical places
 Includes sentiment analysis on review data (Positive / Neutral / Negative)
 
-##🚀 Getting Started
+## 🚀 Getting Started
 ⚠️ Important Note: For the project to run properly, first start the backend (ASP.NET Core API). The backend program must remain running while you run the Flutter app to ensure the app can communicate with it.
 
 ### 📦 1. Clone the Project
