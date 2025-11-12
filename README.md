@@ -61,7 +61,7 @@ cd ..
 dotnet run
 
 ### 📱 5. Run the Flutter App
-# Go back to root folder
+#### Go back to root folder
 cd ..
 cd .\RotaAI-frontend\
 
