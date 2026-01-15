@@ -128,10 +128,10 @@ flutter run
 - Ziyaret Geçmişi
 - Profil Yönetimi
 
-<img width="579" height="836" alt="image" src="https://github.com/user-attachments/assets/7d18c982-f098-4ab4-bfe1-9a273af8cdae" />
-<img width="580" height="826" alt="image" src="https://github.com/user-attachments/assets/f4a75648-4642-4b99-95f2-516dec4c0740" />
-<img width="584" height="835" alt="image" src="https://github.com/user-attachments/assets/f5734b52-217e-4cb8-916a-b1e2fcb518c1" />
-<img width="587" height="829" alt="image" src="https://github.com/user-attachments/assets/48b07475-561b-4b38-af4f-ece6e182c3c3" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/7d18c982-f098-4ab4-bfe1-9a273af8cdae" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f4a75648-4642-4b99-95f2-516dec4c0740" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f5734b52-217e-4cb8-916a-b1e2fcb518c1" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/48b07475-561b-4b38-af4f-ece6e182c3c3" />
 
 
 ## 🤖 Öneri Sistemi
